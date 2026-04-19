@@ -5,10 +5,10 @@ This repository provides a reusable project structure for AI/ML and data-related
 projects, with emphasis on clarity, reproducibility, and professional workflow.
 
 ## Project Structure
-data/         # raw and processed datasets (not tracked by git)/n
-notebooks/    # exploratory analysis/n
-src/          # reusable source code/n
-experiments/  # experiment runs/n/n
+data/         # raw and processed datasets (not tracked by git)
+notebooks/    # exploratory analysis
+src/          # reusable source code
+experiments/  # experiment runs
 docs/         # documentation and notes
 
 ## Setup Instructions
